@@ -1,2 +1,2 @@
-# F-hrer
+# Fuhrer
 It's first own Discord Bot project!
